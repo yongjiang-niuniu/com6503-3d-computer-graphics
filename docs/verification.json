@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-09T11:13:43.122789+00:00",
+  "checked_at_utc": "2026-09-09T12:01:36.999619+00:00",
   "assignment1_archive_sha256": "0e5c5d1df5c5468416ea16afb3ef91bee285d59f4468921389e9833c9024512f",
   "submission_file_count": 513,
   "project_file_count": 483,
@@ -85,5 +85,23 @@
     "Interactive rendering and controls",
     "Performance"
   ],
-  "assignment2_status": "Observed submitted Turnitin paper; original PDF download pending user confirmation of first-use terms. Terms have not been accepted during recovery. No PDF bytes, file hash, content summary or whole-course completeness claim."
+  "assignment2_status": "Original submitted Turnitin PDF recovered after explicit user-authorized terms acceptance; preserved byte for byte. Both observed original assignment attachments are now archived.",
+  "assignment2": {
+    "report_title": "How can computer graphics renderings of statues be made to look more realistic?",
+    "repository_path": "reports/assignment2/yongjiang_elp25aai_com6503.pdf",
+    "sha256": "804e920b8fce7e8d1db51d6a7b622c416634a716aeba25da31473f37ed3c189a",
+    "bytes": 13340777,
+    "pdf_pages": 19,
+    "complete_text_read": true,
+    "all_pages_rendered_and_overviews_reviewed": true,
+    "material_graphs_comparison_and_practical_pages_reviewed_at_page_scale": true,
+    "external_link_annotations": 6,
+    "unique_material_product_links": 3,
+    "embedded_files": [],
+    "external_student_code_links": [],
+    "editable_blender_project_recovered": false,
+    "separate_original_photos_and_texture_packages_recovered": false,
+    "fresh_rendering_or_experiment_performed": false
+  },
+  "recovery_scope": "Both observed original submissions (Assignment1 ZIP and Assignment2 PDF). This does not recover working files absent from the submitted attachments."
 }
