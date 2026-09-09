@@ -1,0 +1,22 @@
+{
+  "course": "COM6503",
+  "crosslisted_codes": [
+    "COM3503",
+    "COM4503"
+  ],
+  "blackboard_course_id": "_123481_1",
+  "assessment": "Assignment2",
+  "submission_platform": "Turnitin via Blackboard LTI",
+  "blackboard_content_id": "_8919337_1",
+  "turnitin_assignment_id": "22031508",
+  "submitted_at_display": "16/01/2026 20:18 (UTC+8)",
+  "submission_state": "submitted",
+  "paper_title_observed": "yongjiang_elp25aai_com6503.pdf",
+  "source_url": "https://vle.shef.ac.uk/ultra/courses/_123481_1/lti/launch?contentId=_8919337_1",
+  "recovery_status": "submitted_download_pending_terms_confirmation",
+  "download_status": "not_downloaded",
+  "terms_confirmation_state": "Awaiting user confirmation; the End User License Agreement has not been accepted.",
+  "observation_note": "The launch page shows a submitted paper. An End User License Agreement dialog currently prevents access needed for download. No file bytes or checksum have been obtained.",
+  "observed_at_utc": "2026-09-09T10:54:52.023830+00:00",
+  "preservation_status": "Submission observed only. No original PDF bytes have been recovered into this archive."
+}
