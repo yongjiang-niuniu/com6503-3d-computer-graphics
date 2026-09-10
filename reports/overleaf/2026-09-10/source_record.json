@@ -1,0 +1,72 @@
+{
+  "export_date": "2026-09-10",
+  "source": "PDF downloaded from the owner-authenticated Overleaf report project. Private project identifiers and editor links are omitted.",
+  "version_role": "Separately preserved Overleaf export, not a replacement for the verified submitted report.",
+  "compilation_date_note": "The September 10, 2026 date displayed by this export is not the original coursework completion or submission date.",
+  "file": "reports/overleaf/2026-09-10/COM6503_Statue_Materials_Report_Overleaf_2026-09-10.pdf",
+  "bytes": 13341338,
+  "sha256": "3e65f35c7ba1a38cdf09252b30f6082949ea8933ed42531f7e07a3f2ab73f16a",
+  "pages": 19,
+  "preservation": "byte-identical copy of the downloaded PDF",
+  "canonical_report": {
+    "path": "reports/assignment2/yongjiang_elp25aai_com6503.pdf",
+    "sha256": "804e920b8fce7e8d1db51d6a7b622c416634a716aeba25da31473f37ed3c189a",
+    "bytes": 13340777,
+    "pages": 19
+  },
+  "comparison": {
+    "byte_identical": false,
+    "same_page_count": true,
+    "pypdf_normalized_full_text_identical": false,
+    "pdfplumber_normalized_full_text_identical": false,
+    "pypdf_normalized_page_matches": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "pdfplumber_normalized_page_matches": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "normalization": "Unicode NFKC then whitespace removal; numbers and punctuation retained. Equality does not by itself prove image/layout identity.",
+    "decoded_page_images_identical": true,
+    "canonical_decoded_images_count": 15,
+    "download_decoded_images_count": 15,
+    "all_normalized_text_matches_after_only_display_date_substitution": true
+  },
+  "observed_content_differences": [
+    "Title-page date changed from January 16, 2026 to September 10, 2026; bibliography access dates and signed declaration date remain unchanged."
+  ],
+  "scope": "Full text extracted with pypdf and pdfplumber; Unicode NFKC/whitespace comparison; decoded images compared per page; selected changed/key pages visually checked. No report edits, experiments or source-code execution."
+}

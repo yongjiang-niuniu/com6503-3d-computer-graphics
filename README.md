@@ -4,6 +4,8 @@ Two complementary graphics projects: an interactive OpenGL scene with an animate
 
 中文概述：本仓库包含两次图形学作业：C++/OpenGL 蜜蜂场景，以及用 Blender 比较石、木、金属材质真实感的论文。两份正式提交均已保存，程序与论文的实现范围分开说明，原始文件保持不变。
 
+**Paper versions:** [Original Assignment 2 submission](reports/assignment2/yongjiang_elp25aai_com6503.pdf) · [Overleaf export of 10 September 2026](reports/overleaf/2026-09-10/COM6503_Statue_Materials_Report_Overleaf_2026-09-10.pdf) · [Version comparison](reports/overleaf/2026-09-10/README.md). Full-text comparison found only the title-page date changed, and the decoded figures match. The new displayed date is the compilation/export date, not the coursework completion date; the original submitted PDF remains canonical.
+
 ## Project at a glance
 
 | Field | Details |
