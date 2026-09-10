@@ -22,13 +22,13 @@ No top-level project license or standalone GLM license file was found in the sub
 
 The submission includes six cubemap faces, ground diffuse/specular textures, stone/metal/wood diffuse/specular and face textures, and one screenshot. Their original download URLs, creators and asset-specific permissions are not documented in the recovered README or source. Their provenance is therefore recorded as unknown rather than assigned to an invented source.
 
-All 21 packaged images were decoded and checked during recovery. No GPS EXIF field was found, and the submitted screenshot shows the rendered scene rather than a desktop containing other applications. These checks do not establish asset ownership or public redistribution rights. The repository remains private.
+All 21 packaged images were decoded and checked during recovery. No GPS EXIF field was found, and the submitted screenshot shows the rendered scene rather than a desktop containing other applications. These checks do not establish asset ownership or grant new redistribution rights. The owner has authorized publication of the submitted coursework archive; its original resource attribution and documented source gaps remain unchanged.
 
 ## Privacy and original build evidence
 
-The original build files contain Windows toolchain paths and the submitting user's local project path. They remain in the unchanged private ZIP as original evidence. No hardcoded credential, external process-launch command or application network endpoint was found in the reviewed student source. The prebuilt Windows executable and library binaries were not executed during review.
+The original build files contain Windows toolchain paths and the submitting user's local project path. They remain in the unchanged original ZIP as evidence. No hardcoded credential, external process-launch command or application network endpoint was found in the reviewed student source. The prebuilt Windows executable and library binaries were not executed during review.
 
-Submission records omit grading fields and teacher feedback. Both original assignment attachments have now been recovered. The Assignment 2 PDF retains the original author declaration, email and student identifier, so the archive remains private; these identifiers are not repeated in the README.
+Submission records omit grading fields and teacher feedback. Both original assignment attachments have now been recovered. The Assignment 2 PDF retains the original author declaration, email and student identifier as part of the owner-authorized original submission; these identifiers are not repeated in the README. The assignment receipt's reference to a private archive describes its recovery-time state. That historical receipt remains unchanged.
 
 ## Assignment 2 report and sources
 

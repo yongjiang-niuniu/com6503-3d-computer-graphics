@@ -91,4 +91,4 @@ No new Windows link, live shader compilation, interactive rendering or Blender e
 
 Yongjiang Liu's original submissions are preserved with their declarations and acknowledgements. GLFW, GLM, GLAD, Khronos headers and stb_image retain their third-party identity and existing notices. The Assignment 2 paper names the author's photography and its FreePBR material references; those citations do not establish the origin of Assignment 1's different assets.
 
-[Attribution](docs/ATTRIBUTION.md) explains the source and resource boundaries. The [Assignment 1 record](archive/assignment1/submission_record.json) and [Assignment 2 record](archive/assignment2/submission_record.json) preserve submission dates and checksums. This repository remains private, with the original reports and source unchanged.
+[Attribution](docs/ATTRIBUTION.md) explains the source and resource boundaries. The [Assignment 1 record](archive/assignment1/submission_record.json) and [Assignment 2 record](archive/assignment2/submission_record.json) preserve submission dates and checksums. The original reports and source remain unchanged in this repository.
