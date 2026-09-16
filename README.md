@@ -1,10 +1,10 @@
 # 3D Computer Graphics · COM6503
 
+**[Read the project report](Report.pdf)** · [Report details](docs/REPORT.md)
+
 Two complementary graphics projects: an interactive OpenGL scene with an animated bee and reactive statues, and a Blender-based study of how texture and shading choices affect statue-material realism. Together they explore hierarchical modelling, camera interaction, lighting and the visual differences between Phong-style and physically based materials.
 
 中文概述：本仓库包含两次图形学作业：C++/OpenGL 蜜蜂场景，以及用 Blender 比较石、木、金属材质真实感的论文。两份正式提交均已保存，程序与论文的实现范围分开说明，原始文件保持不变。
-
-**Paper versions:** [Original Assignment 2 submission](reports/assignment2/yongjiang_elp25aai_com6503.pdf) · [Overleaf export of 10 September 2026](reports/overleaf/2026-09-10/COM6503_Statue_Materials_Report_Overleaf_2026-09-10.pdf) · [Version comparison](reports/overleaf/2026-09-10/README.md). Full-text comparison found only the title-page date changed, and the decoded figures match. The new displayed date is the compilation/export date, not the coursework completion date; the original submitted PDF remains canonical.
 
 ## Project at a glance
 
@@ -24,18 +24,18 @@ Two complementary graphics projects: an interactive OpenGL scene with an animate
 
 *Screenshot from the original submission, not a new rendering run.*
 
-**Assignment 2 — Statue-material realism:** the paper [How can computer graphics renderings of statues be made to look more realistic?](reports/assignment2/yongjiang_elp25aai_com6503.pdf) compares stone, weathered wood and metal using reference photographs, Phong-style renders and PBR renders. Both rendering variants were prepared in Blender. This study is related to the first assignment's lighting topic; the C++ scene itself has not been converted into a PBR renderer.
+**Assignment 2 — Statue-material realism:** the paper [How can computer graphics renderings of statues be made to look more realistic?](Report.pdf) compares stone, weathered wood and metal using reference photographs, Phong-style renders and PBR renders. Both rendering variants were prepared in Blender. This study is related to the first assignment's lighting topic; the C++ scene itself has not been converted into a PBR renderer.
 
 ## Repository guide
 
 | Location | Contents |
 | --- | --- |
-| [project/src/](project/src/) | Original interactive-scene code and generated GLAD loader |
-| [project/shaders/](project/shaders/) | Object-lighting and cubemap shaders |
-| [project/assets/](project/assets/) | Submitted textures and six skybox faces |
-| [project/include/](project/include/) / [project/lib/](project/lib/) | Bundled headers and Windows GLFW libraries |
-| [Assignment 2 paper](reports/assignment2/yongjiang_elp25aai_com6503.pdf) | Original Blender comparison, figures, bibliography and practical appendix |
-| [archive/](archive/) | Original Assignment 1 ZIP and both submission records |
+| [project/src/](project/src) | Original interactive-scene code and generated GLAD loader |
+| [project/shaders/](project/shaders) | Object-lighting and cubemap shaders |
+| [project/assets/](project/assets) | Submitted textures and six skybox faces |
+| [project/include/](project/include) / [project/lib/](project/lib) | Bundled headers and Windows GLFW libraries |
+| [Assignment 2 paper](Report.pdf) | Original Blender comparison, figures, bibliography and practical appendix |
+| [archive/](archive) | Original Assignment 1 ZIP and both submission records |
 | [docs/](docs/README.md) | Build guide, source map, report guide, attribution and verification |
 
 ## Getting started

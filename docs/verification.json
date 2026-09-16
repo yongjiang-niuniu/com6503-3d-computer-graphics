@@ -88,7 +88,7 @@
   "assignment2_status": "Original submitted Turnitin PDF recovered after explicit user-authorized terms acceptance; preserved byte for byte. Both observed original assignment attachments are now archived.",
   "assignment2": {
     "report_title": "How can computer graphics renderings of statues be made to look more realistic?",
-    "repository_path": "reports/assignment2/yongjiang_elp25aai_com6503.pdf",
+    "repository_path": "Report.pdf",
     "sha256": "804e920b8fce7e8d1db51d6a7b622c416634a716aeba25da31473f37ed3c189a",
     "bytes": 13340777,
     "pdf_pages": 19,

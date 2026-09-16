@@ -32,7 +32,7 @@ Submission records omit grading fields and teacher feedback. Both original assig
 
 ## Assignment 2 report and sources
 
-The [original Assignment 2 paper](../reports/assignment2/yongjiang_elp25aai_com6503.pdf) states that its photographic references were taken by the author with a smartphone. Its Blender PBR workflow uses material sets cited from FreePBR: scratched metal, rock wall mortar and aged wood planks. These citations establish the report's stated sources, not the provenance of the different image files inside the Assignment 1 ZIP.
+The [original Assignment 2 paper](../Report.pdf) states that its photographic references were taken by the author with a smartphone. Its Blender PBR workflow uses material sets cited from FreePBR: scratched metal, rock wall mortar and aged wood planks. These citations establish the report's stated sources, not the provenance of the different image files inside the Assignment 1 ZIP.
 
 The paper describes the external materials as permissively licensed/CC0. The archive preserves that original wording without converting it into an independently verified license grant. The three cited product pages were reachable when checked; no original downloaded package or license file was recovered from the student's Blender working files, and no replacement material package has been added.
 

@@ -2,7 +2,7 @@
 
 **Title:** How can computer graphics renderings of statues be made to look more realistic?
 
-**Artifact:** [Original submitted PDF](../reports/assignment2/yongjiang_elp25aai_com6503.pdf), 19 pages, submitted through Turnitin on 16 January 2026 at 20:18 (UTC+8). The file was downloaded from the submitted-paper page after the user authorized acceptance of Turnitin's first-use agreement. Its [submission record](../archive/assignment2/submission_record.json) preserves the download provenance and SHA-256.
+**Artifact:** [Original submitted PDF](../Report.pdf), 19 pages, submitted through Turnitin on 16 January 2026 at 20:18 (UTC+8). The file was downloaded from the submitted-paper page after the user authorized acceptance of Turnitin's first-use agreement. Its [submission record](../archive/assignment2/submission_record.json) preserves the download provenance and SHA-256.
 
 ## What the paper investigates
 

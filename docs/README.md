@@ -12,7 +12,7 @@ The [project overview](../README.md) introduces both assignments. Use the scene 
 
 ## Original deliverables
 
-- Assignment 1: [source project](../project/), [original ZIP](../archive/assignment1/3d_graphing_programme.zip) and [submission record](../archive/assignment1/submission_record.json).
-- Assignment 2: [original 19-page paper](../reports/assignment2/yongjiang_elp25aai_com6503.pdf) and [submission record](../archive/assignment2/submission_record.json).
+- Assignment 1: [source project](../project), [original ZIP](../archive/assignment1/3d_graphing_programme.zip) and [submission record](../archive/assignment1/submission_record.json).
+- Assignment 2: [original 19-page paper](../Report.pdf) and [submission record](../archive/assignment2/submission_record.json).
 
 The README inside `project/` is retained as part of the original submission. The current build and implementation guides above clarify its setup and descriptions without editing the submitted source. The second assignment's Blender images are evidence within the paper; no editable Blender project has been recovered or substituted.
